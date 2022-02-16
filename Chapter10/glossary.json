@@ -1,0 +1,13 @@
+{
+    "Attribute": "A value associated with an object which is referenced by name using dotted expressions. For example, if an object o has an attribute a it would be referenced as o.a.",
+    "append": "The append method adds new items to the end of a list.",
+    "boolean": "variables that evaluate to true or false",
+    "comments": "lines that begin with #",
+    "del": "command used to remove a key value pair from the dictionary.",
+    "dictionary": "Python data type that stores key:value pairs",
+    "elif": "Python version of an if/else",
+    "list": "Python data type stored as a list of items that can be changed.",
+    "pop()": "Method that removes the last item from the list AND it allows you to save the value removed in a variable",
+    "subscript": "Numerical value given to each item in a list starting at 0",
+    "tuple": "List of items that do not change"
+}

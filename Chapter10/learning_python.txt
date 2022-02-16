@@ -1,0 +1,3 @@
+In Python you can process mathematical equations.
+In Python you can store strings in lists or tuples.
+In Python you can read and accept user input.

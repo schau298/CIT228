@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1647491528000,
+        "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_week.geojson",
+        "title": "USGS Significant Earthquakes, Past Week",
+        "status": 200,
+        "api": "1.10.3",
+        "count": 6
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.8,
+                "place": "57 km NNW of Bandar-e Lengeh, Iran",
+                "time": 1647472545700,
+                "updated": 1647488308389,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h58x",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000h58x.geojson",
+                "felt": 56,
+                "cdi": 7.8,
+                "mmi": 7.283,
+                "alert": "yellow",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 694,
+                "net": "us",
+                "code": "6000h58x",
+                "ids": ",us6000h58x,",
+                "sources": ",us,",
+                "types": ",dyfi,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 2.508,
+                "rms": 0.68,
+                "gap": 33,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 5.8 - 57 km NNW of Bandar-e Lengeh, Iran"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.6316,
+                    27.0245,
+                    10
+                ]
+            },
+            "id": "us6000h58x"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 7.3,
+                "place": "57 km ENE of Namie, Japan",
+                "time": 1647441393264,
+                "updated": 1647491197151,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h519",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000h519.geojson",
+                "felt": 335,
+                "cdi": 8.7,
+                "mmi": 7.575,
+                "alert": "orange",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 1291,
+                "net": "us",
+                "code": "6000h519",
+                "ids": ",pt22075004,us6000h519,at00r8udwu,",
+                "sources": ",pt,us,at,",
+                "types": ",dyfi,finite-fault,general-text,ground-failure,impact-link,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 2.937,
+                "rms": 1,
+                "gap": 29,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 7.3 - 57 km ENE of Namie, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.587,
+                    37.7015,
+                    63.07
+                ]
+            },
+            "id": "us6000h519"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.5,
+                "place": "62 km ENE of Namie, Japan",
+                "time": 1647441266441,
+                "updated": 1647490683871,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h518",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000h518.geojson",
+                "felt": 25,
+                "cdi": 6.8,
+                "mmi": 5.015,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 667,
+                "net": "us",
+                "code": "6000h518",
+                "ids": ",us6000h518,",
+                "sources": ",us,",
+                "types": ",dyfi,ground-failure,losspager,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 2.985,
+                "rms": 0.6,
+                "gap": 51,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.5 - 62 km ENE of Namie, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.6677,
+                    37.6696,
+                    47.23
+                ]
+            },
+            "id": "us6000h518"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.7,
+                "place": "169 km W of Pariaman, Indonesia",
+                "time": 1647205762034,
+                "updated": 1647354162278,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h48e",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000h48e.geojson",
+                "felt": 17,
+                "cdi": 5,
+                "mmi": 6.486,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 699,
+                "net": "us",
+                "code": "6000h48e",
+                "ids": ",us6000h48e,",
+                "sources": ",us,",
+                "types": ",dyfi,ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 2.202,
+                "rms": 0.83,
+                "gap": 43,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.7 - 169 km W of Pariaman, Indonesia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.5936,
+                    -0.6622,
+                    28
+                ]
+            },
+            "id": "us6000h48e"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.4,
+                "place": "76 km WNW of Cabra, Philippines",
+                "time": 1647205549364,
+                "updated": 1647445864407,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h48d",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000h48d.geojson",
+                "felt": 107,
+                "cdi": 6.4,
+                "mmi": 4.282,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 699,
+                "net": "us",
+                "code": "6000h48d",
+                "ids": ",at00r8pc3j,pt22072000,us6000h48d,",
+                "sources": ",at,pt,us,",
+                "types": ",dyfi,ground-failure,impact-link,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 8.834,
+                "rms": 0.94,
+                "gap": 28,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.4 - 76 km WNW of Cabra, Philippines"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.373,
+                    14.0857,
+                    11
+                ]
+            },
+            "id": "us6000h48d"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.1,
+                "place": "41 km WNW of Nikiski, Alaska",
+                "time": 1647115188801,
+                "updated": 1647461396123,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02239qtmiy",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02239qtmiy.geojson",
+                "felt": 550,
+                "cdi": 3.8,
+                "mmi": 3.734,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 609,
+                "net": "ak",
+                "code": "02239qtmiy",
+                "ids": ",at00r8ne7n,ak02239qtmiy,us6000h422,",
+                "sources": ",at,ak,us,",
+                "types": ",dyfi,impact-link,oaf,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": null,
+                "rms": 0.75,
+                "gap": null,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 5.1 - 41 km WNW of Nikiski, Alaska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -152.0345,
+                    60.7797,
+                    88.4
+                ]
+            },
+            "id": "ak02239qtmiy"
+        }
+    ],
+    "bbox": [
+        -152.0345,
+        -0.6622,
+        10,
+        141.6677,
+        60.7797,
+        88.4
+    ]
+}
